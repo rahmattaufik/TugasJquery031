@@ -1,0 +1,34 @@
+html,body{
+    background-color: #d8fbff;
+}
+
+.bagian-atas{
+    background-color: #d8fbff;
+    background-position: center;
+    border: 5px solid rgb(0, 0, 0) ;
+}
+
+.bagian-buttom{
+    
+    background-color: #d8fbff;
+    font-size: 10px;
+    margin: auto;
+    width: 60%;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 20px;
+    
+}
+
+#img{
+    background-color: #d8fbff;
+    border: 5px solid rgb(0, 0, 0) ;
+    padding: 50px;
+}
+
+.container p{
+    color: black;
+}
+
+.card-body{
+    background-color: #28b5b5;
+}
